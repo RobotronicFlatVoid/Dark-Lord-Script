@@ -1209,4 +1209,4 @@ player.CharacterAdded:Connect(function(newCharacter)
 
     end
 
-end) 
+end)
